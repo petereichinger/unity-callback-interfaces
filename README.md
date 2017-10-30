@@ -27,4 +27,4 @@ Usage
 =====
 
 The interfaces are in the file `Assets/Scripts/CallbackInterfaces.cs`.
-They are in a separate namepace to prevent collisions and clutter in auto complete.
+They are in a separate namespace to prevent collisions and clutter in auto complete.
